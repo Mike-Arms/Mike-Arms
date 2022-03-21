@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mike-Arms
-- 👀 I’m interested in volleyball and programming.
-- 💞️ I’m looking to collaborate on SVBA.
+- 👀 My interests: boardgaming, volleyball, and programming.
+- 💞️ Currently my main use of this account is for work on the SVBA.
 
 <!---
 Mike-Arms/Mike-Arms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
