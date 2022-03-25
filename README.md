@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mike-Arms
+- 👋 I’m @Mike-Arms
 - 👀 My interests: boardgaming, volleyball, and programming.
 - 💞️ Currently my main use of this account is for work on the SVBA.
 
